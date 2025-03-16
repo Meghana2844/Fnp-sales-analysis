@@ -1,3 +1,7 @@
+
+
+![Sales Dashboard](FNP_Dashboard.png)
+
 # Fnp-sales-analysis
 ### **Executive Summary: Sales Analysis Dashboard**  
 
